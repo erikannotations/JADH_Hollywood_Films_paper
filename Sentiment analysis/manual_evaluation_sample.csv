@@ -1,0 +1,101 @@
+id,sentence,collection,annotator_score,siebert_score,cardiff_score
+1,I don't have a choice.,All_Other,-0.5,0.995329737663269,0.0
+2,"So, uh, we're boyfriend and girlfriend now.",E&SE_Asian,0.5,0.9967017769813538,0.0
+3,We're just used to being the cat.,E&SE_Asian,0.0,-0.9975437521934508,0.0
+4,We need her in good health.,E&SE_Asian,-0.3,0.9987033605575562,0.6395469903945923
+5,"Oh, no!",All_Other,-0.7,-0.9968340992927552,-0.6501110196113586
+6,Would you trade that necklace for a glimpse into your future?,E&SE_Asian,-0.3,0.8245160579681396,0.0
+7,Wait.,E&SE_Asian,-0.3,-0.9978572726249696,0.0
+8,Which isn't the point.,All_Other,-0.3,-0.993365466594696,-0.5081284642219543
+9,Mom is that you?,All_Other,0.0,-0.985383152961731,0.0
+10,Buy your car!,E&SE_Asian,0.5,0.9897127151489258,0.0
+11,You would've done the same.,All_Other,0.5,0.995648205280304,-0.481675922870636
+12,Who else is looking for these stones?,All_Other,-0.3,0.9940049052238464,0.0
+13,He built a surveillance hub in Mando's garage and everything.,All_Other,-0.3,0.9976988434791564,0.0
+14,I was actually read about him the other day.,E&SE_Asian,0.0,0.9942769408226012,0.0
+15,You and Romanoff.,All_Other,0.0,-0.9843205213546752,0.0
+16,"He's a master codebreaker, an ace pilot, a poet with a blaster.",All_Other,0.7,0.9981777667999268,0.7647877931594849
+17,"Go, go, go, go!",All_Other,0.7,0.9971520900726318,0.77153480052948
+18,That's how we're gonna win.,E&SE_Asian,0.7,0.9981254935264589,0.8187900185585022
+19,"You're both my children, and I love you so much.",All_Other,0.99,0.9987927675247192,0.9839372038841248
+20,Rooster we're late!,E&SE_Asian,-0.3,-0.997879147529602,-0.6643490195274353
+21,Tessa!,All_Other,0.0,0.99634450674057,0.0
+22,Fight for your lives!,All_Other,-0.7,0.99602472782135,0.0
+23,What?,E&SE_Asian,0.0,-0.9977466464042664,0.0
+24,I'm good!,All_Other,0.3,0.9985949397087096,0.940634548664093
+25,Like what?,All_Other,0.0,-0.9902254939079284,0.0
+26,What more do you want from me?,E&SE_Asian,-0.3,0.9956201910972596,0.0
+27,Hey!,E&SE_Asian,0.5,0.9974708557128906,0.7106276154518127
+28,"It's alright, Garry.",All_Other,0.5,-0.98906147480011,0.5669575333595276
+29,"No, no, no.",E&SE_Asian,-0.7,-0.9988892674446106,-0.4895493388175964
+30,"Coming, babe.",E&SE_Asian,0.7,0.9944149255752563,0.5538104772567749
+31,"You showed up in the backgroundof six different photos, two continents, with aliens.",E&SE_Asian,0.0,-0.9983376264572144,0.0
+32,Hi.,E&SE_Asian,0.3,0.9970543384552002,0.0
+33,"Mr. Witwicky, I thought I made it clear to you.",All_Other,-0.5,0.9958539009094238,0.0
+34,"Hey, buddy.",All_Other,0.7,0.997310996055603,0.0
+35,No.,All_Other,-0.5,-0.9983184337615968,0.0
+36,"And you have to remember, just stay calm.",E&SE_Asian,-0.3,0.9986518025398254,0.5455273985862732
+37,"Dad, there's a missile in I'll kill you!",All_Other,-0.9,-0.9964488744735718,-0.8679856061935425
+38,"Yeah, then you get your Cube back.",All_Other,0.0,-0.9977937936782836,0.0
+39,Shuttle number LMTR-20.,All_Other,0.0,-0.9598732590675354,0.0
+40,Get after them.,All_Other,-0.3,0.9976065158843994,0.0
+41,Spider-Man?,All_Other,0.0,-0.9821844100952148,0.0
+42,Get out of the way!,E&SE_Asian,-0.7,-0.9987088441848756,0.0
+43,buck and a half.,E&SE_Asian,0.0,-0.9844940304756165,0.0
+44,Unless I'm actually guilty of something?,All_Other,-0.7,-0.9931744933128356,-0.6005769371986389
+45,Perfect.,All_Other,0.7,0.9985955357551576,0.9075065851211548
+46,Oh.,E&SE_Asian,0.0,-0.995776355266571,0.0
+47,"I had just finished my fruit cobbler, and Oh, dude, I'm fine.",E&SE_Asian,0.5,0.994802713394165,0.8846261501312256
+48,I'm afraid rules are rules.,All_Other,-0.5,-0.9983988404273988,-0.7344937920570374
+49,And you will always find me.,E&SE_Asian,0.3,0.998422384262085,0.848235011100769
+50,I love you.,All_Other,0.9,0.9987584352493286,0.9286842346191406
+51,Peter.,E&SE_Asian,0.0,0.9895688891410828,0.0
+52,We do not allow cell phones in here.,E&SE_Asian,-0.5,-0.9982969164848328,0.0
+53,"You're supposed to leave it in the box, right?",All_Other,-0.3,-0.9992809891700744,0.0
+54,"The universe, yours.",All_Other,0.3,0.9963705539703368,0.0
+55,They're melting Ratchet.,All_Other,-0.7,-0.9993112087249756,-0.5741093754768372
+56,"Come on, get over here!",All_Other,0.5,-0.9879603385925292,0.0
+57,"Come, come.",E&SE_Asian,0.3,0.9842350482940674,0.0
+58,"At the height of their powers, they allowed Darth Sidious to rise create the Empire, and wipe them out.",All_Other,-0.9,0.9583086967468262,0.0
+59,"Because my nana says that we have it in our family, and sometimes I get these tinglings in my hands So how did the bad guys get here?",E&SE_Asian,-0.7,-0.9965207576751708,0.0
+60,Cuttlefish have chromatophores that allow the skin to change color.,E&SE_Asian,0.0,0.995497226715088,0.0
+61,I'm Chirrut imwe.,E&SE_Asian,0.0,0.9948282837867736,0.0
+62,You can't even protect yourselves.,E&SE_Asian,-0.7,-0.9994747042655944,-0.9075963497161864
+63,"I'm gonna hit you right back, son.",E&SE_Asian,-0.7,-0.9977359771728516,-0.6403120756149292
+64,It's Ultron's base consciousness.,E&SE_Asian,-0.3,-0.9927290081977844,0.0
+65,They watch and listen.,E&SE_Asian,-0.3,0.9987484216690063,0.0
+66,But I never imagined You did.,E&SE_Asian,-0.3,0.9888822436332704,0.0
+67,You need to hide on the roof of this building.,E&SE_Asian,-0.5,-0.9934954643249512,-0.8720026612281799
+68,Just let me.,All_Other,0.3,0.9979512095451356,0.0
+69,All right!,E&SE_Asian,0.5,-0.987263023853302,0.676599383354187
+70,Yeah.,All_Other,0.5,-0.9878492951393129,0.0
+71,The message.,All_Other,0.0,0.991356372833252,0.0
+72,"We know, sir.",All_Other,0.3,0.9915181994438172,0.0
+73,Here's your web cartridges.,E&SE_Asian,0.3,0.993074893951416,0.0
+74,I got family.,All_Other,0.5,0.9983785152435304,0.5606405138969421
+75,True.,E&SE_Asian,0.5,0.9961090683937072,0.0
+76,Humans.,All_Other,0.0,-0.9907780885696412,0.0
+77,And the other device?,All_Other,0.0,-0.9916104674339294,0.0
+78,It's Night Night Monkey.,E&SE_Asian,-0.7,0.9953501224517822,0.0
+79,He just did it again!,E&SE_Asian,0.7,0.9965415596961976,0.4706802368164062
+80,Yes.,E&SE_Asian,0.5,0.9981922507286072,0.0
+81,Let's find him and get out of here.,E&SE_Asian,-0.5,-0.9950862526893616,-0.6500397324562073
+82,Find Peter Parker.,E&SE_Asian,-0.5,-0.9926907420158386,0.0
+83,It's as I said.,All_Other,-0.3,0.9946668148040771,0.0
+84,"Before you do anything, Mister Doctor Strange, sir, Peter's plan is working.",E&SE_Asian,0.5,0.9967735409736632,0.5051697492599487
+85,"""Monster"" is a relative term.",E&SE_Asian,-0.5,-0.9868979454040528,0.0
+86,Talk my way out of it.,All_Other,-0.5,-0.9963661432266236,0.0
+87,I was Lordy!,All_Other,-0.5,0.993544578552246,0.5827975273132324
+88,I know you will.,E&SE_Asian,0.3,0.9976209998130798,0.7199544310569763
+89,"All right, find the phone jack.",All_Other,0.3,-0.9887815117836,0.0
+90,Well done!,All_Other,0.7,0.9988368153572084,0.9565025568008424
+91,Doughnut for my fellow Engineer.,All_Other,0.7,0.9975218176841736,0.5788807272911072
+92,The Federales found a room full of bodies.,All_Other,-0.9,-0.9954251646995544,0.0
+93,If the police were to gain leverage over one of you everyone's money would be at stake.,E&SE_Asian,-0.9,-0.998116970062256,-0.7951003313064575
+94,Try not to slip.,E&SE_Asian,-0.5,0.9956362843513488,0.0
+95,But we can do our best to protect them.,All_Other,-0.5,0.9981256127357484,0.5271891355514526
+96,Back to being a nobody.,All_Other,-0.5,-0.9993993043899536,-0.6281202435493469
+97,I always knew he'd do well.,All_Other,0.7,0.998602330684662,0.9450384974479676
+98,Peter!,E&SE_Asian,0.5,0.9932767152786256,0.7189092636108398
+99,Come here!,E&SE_Asian,0.7,0.9856218695640564,0.597057044506073
+100,"Oh, right, right, right.",E&SE_Asian,0.7,-0.9968774318695068,0.0

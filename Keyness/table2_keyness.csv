@@ -1,0 +1,25 @@
+word,f_ese,f_other,LL,key_in,freq_ratio,log_ratio,films,top_film,top_film_tokens
+monster,6,26,20.2,E&SE,15.0,3.91,3,Jurassic World,2
+others,5,45,10.8,E&SE,7.22,2.85,3,Rogue One - A Star Wars Story,3
+money,6,72,10.2,E&SE,5.42,2.44,3,The Dark Knight,4
+protect,5,64,8.0,E&SE,5.08,2.34,4,The Dark Knight,2
+crazy,5,69,7.4,E&SE,4.71,2.24,3,Spider-Man: Far From Home,3
+left,10,189,10.3,E&SE,3.44,1.78,5,Spider-Man: No Way Home,5
+talking,6,124,5.4,E&SE,3.15,1.66,3,Transformers 3: Dark of the Moon,2
+wrong,7,145,6.3,E&SE,3.14,1.65,6,Spider-Man: No Way Home,2
+next,5,105,4.4,E&SE,3.1,1.63,4,Jurassic World: Fallen Kingdom,2
+with,66,1394,57.9,E&SE,3.08,1.62,12,Rogue One - A Star Wars Story,39
+real,6,130,5.1,E&SE,3.0,1.58,5,Star Wars 8 - The Last Jedi,2
+because,12,336,6.4,E&SE,2.32,1.21,6,Spider-Man: No Way Home,4
+we're,25,734,12.1,E&SE,2.21,1.14,9,Spider-Man: Far From Home,8
+one,36,1155,14.1,E&SE,2.03,1.02,6,Rogue One - A Star Wars Story,19
+i'm,49,2032,8.4,E&SE,1.57,0.65,9,Rogue One - A Star Wars Story,23
+is,74,3587,5.7,E&SE,1.34,0.42,12,Rogue One - A Star Wars Story,21
+we,60,2909,4.6,E&SE,1.34,0.42,14,Star Wars 8 - The Last Jedi,17
+the,215,10783,13.1,E&SE,1.3,0.38,15,Rogue One - A Star Wars Story,49
+it,48,4397,6.3,All other,0.71,-0.49,14,Spider-Man: Far From Home,10
+that,34,3519,8.5,All other,0.63,-0.67,13,Spider-Man: No Way Home,9
+was,14,1498,4.1,All other,0.61,-0.71,9,Spider-Man: Far From Home,3
+on,24,2565,7.0,All other,0.61,-0.71,9,Star Wars 8 - The Last Jedi,5
+see,6,804,4.0,All other,0.49,-1.03,3,Spider-Man: No Way Home,4
+you're,10,1348,6.8,All other,0.48,-1.06,9,Star Wars 8 - The Last Jedi,2
